@@ -1,16 +1,41 @@
-# medien
+# 💬 Median — A Next-Gen Chat App
 
-A new Flutter project.
+Median is a modern chat app built for **Gen-Z** — fast, social, and more expressive.  
+Not just boring texts — send **doodles**, chat in **groups**, and connect with friends instantly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔗 Download / Demo
+_Coming soon — Android release build will be added here_
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎨 **Doodle Text** — Draw your message instead of typing  
+- 👥 **Group Chats** — Create groups and chat together  
+- 📱 **User Profiles** — Make friends & stay connected  
+- 🔥 **Modern UI** — Smooth, colorful, and responsive animations  
+- 🔒 Secure auth and storage
+
+---
+
+## 🛠 Tech Stack
+
+| Feature | Technology |
+|---------|------------|
+| Mobile App | Flutter |
+| Backend | Firebase |
+| Authentication | Firebase Auth |
+| Cloud Storage | Supabase |
+| Database | Firestore / Supabase |
+
+---
+
+## 📦 Installation (For Developers)
+
+```sh
+git clone https://github.com/mayvrix/median.git
+cd median
+flutter pub get
+flutter run
